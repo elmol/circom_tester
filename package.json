@@ -1,5 +1,5 @@
 {
-  "name": "circom_tester",
+  "name": "circom_tester_fix",
   "version": "0.0.20-bugfix-1",
   "description": "Tools for testing circom circuits.",
   "main": "index.js",
